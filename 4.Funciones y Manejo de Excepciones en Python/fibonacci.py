@@ -26,3 +26,15 @@ def sum_numbers(n):
     # Recursive case: n plus the sum of numbers up to n-1
     else:
         return n + sum_numbers(n - 1)
+
+
+def fibonacci(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n - 1) + fibonacci(n - 2)
+# Llamada a la función
+number = 2
+print(fibonacci(number))
