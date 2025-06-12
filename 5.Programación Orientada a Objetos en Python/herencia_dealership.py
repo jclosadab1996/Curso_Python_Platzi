@@ -1,6 +1,6 @@
 class Vehicle:
     def __init__(self, brand, model, price):
-        #EncapsulaciÃ³n
+        #Encapsulación
         self.brand = brand
         self.model = model
         self.price = price
