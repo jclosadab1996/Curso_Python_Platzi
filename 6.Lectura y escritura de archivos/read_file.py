@@ -13,5 +13,5 @@
     file.write("\n\nBy:ChatGPT")"""
 
 #Sobreescribir el texto
-with open('caperucita.txt', 'w') as file:
+with open('cuento.txt', 'w') as file:
     file.write("\n\nBy:ChatGPT")
