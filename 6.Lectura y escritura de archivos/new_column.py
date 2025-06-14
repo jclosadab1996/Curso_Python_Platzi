@@ -1,7 +1,7 @@
 import csv
 
-file_path = 'products.csv'
-updated_file_path = 'products_updated.csv'
+file_path = '6.Lectura y escritura de archivos/products.csv'
+updated_file_path = '6.Lectura y escritura de archivos/products_updated.csv'
 
 with open(file_path, mode='r') as file:
     csv_reader = csv.DictReader(file)
