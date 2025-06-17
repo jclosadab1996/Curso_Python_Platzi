@@ -10,5 +10,3 @@ class Order:
 
 Order.update_gloabal_discount(15)
 print(Order.global_discount)
-        
-        
