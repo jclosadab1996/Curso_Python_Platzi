@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un ejemplo de README.md para el proyecto Curso_Python_Platzi. Puedes ajustarlo según las características específicas de tu repositorio.
-
----
-
 # Curso Python Platzi
 
 Repositorio de ejercicios, ejemplos y proyectos desarrollados durante el curso de Python en Platzi.
